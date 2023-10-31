@@ -23,12 +23,8 @@ virtualenvs.foldername: Détermine le nom du répertoire des environnements virt
 <br><br>
 #### Options
 
-**-d** ou **--default** pour définir ce nouvel environnement comme l'environnement par défaut
-
-**--withoutdeps** pour définir si les dépendances du projet doit être installés au moment de la création de l'environnement
-
-**--clear** pour définir si le dossier de l'environnement doit être nettoyer si non vide lors de la création
-
-**-C** ou **--cache** pour forcer la création de l'environnement dans le dossier de cache
-
-**-p** ou **--prompt** pour définir le prompt dans l'environnement
+**-d** ou **--default** pour définir ce nouvel environnement comme l'environnement par défaut<br>
+**--withoutdeps** pour définir si les dépendances du projet doit être installés au moment de la création de l'environnement<br>
+**--clear** pour définir si le dossier de l'environnement doit être nettoyer si non vide lors de la création<br>
+**-C** ou **--cache** pour forcer la création de l'environnement dans le dossier de cache<br>
+**-p** ou **--prompt** pour définir le prompt dans l'environnement<br>

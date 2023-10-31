@@ -12,10 +12,7 @@ Une fois la commande lancée, la système va réaliser un package et le placer d
 <br><br>
 #### Options
 
-**--windows** pour créer un package pour Windows
-
-**--linux** pour créer un package pour Linux
-
-**--sdist** pour créer un package .tar.gz
-
-**--d** ou **--dryrun** pour afficher les informations de packaging sans action
+**--windows** pour créer un package pour Windows<br>
+**--linux** pour créer un package pour Linux<br>
+**--sdist** pour créer un package .tar.gz<br>
+**--d** ou **--dryrun** pour afficher les informations de packaging sans action<br>

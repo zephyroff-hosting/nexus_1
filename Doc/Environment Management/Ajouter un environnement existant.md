@@ -1,6 +1,6 @@
 ---
 icon: 
-order: 998
+order: 997
 ---
 Il est possible d'assigner un environnement existant à un projet
 

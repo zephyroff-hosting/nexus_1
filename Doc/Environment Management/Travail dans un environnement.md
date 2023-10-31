@@ -1,6 +1,6 @@
 ---
 icon: 
-order: 998
+order: 992
 ---
 Il existe plusieurs solutions pour travailler dans un environnement virtuel, ouvrir un environnement, ouvrir le prompt Python ou encore exécuter une commande dans l'environnement.
 
