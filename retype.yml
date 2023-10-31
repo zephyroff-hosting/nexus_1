@@ -6,7 +6,7 @@ branding:
   label: Docs
 poweredByRetype: true
 links:
-  - text: Getting Started
-    link: nexus.apajak.fr/Nexus/
+  - text: Repository
+    link: pypi.org/project/nexus-project
 footer:
   copyright: "&copy; Copyright . All rights reserved."

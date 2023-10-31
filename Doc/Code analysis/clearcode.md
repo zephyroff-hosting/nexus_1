@@ -1,5 +1,5 @@
 ---
-icon: 
+icon: file-diff
 order: 998
 ---
 La commande clearcode est une intégration de l'outil Black qui permet d'analyser et de corriger le formatage du code.

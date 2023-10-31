@@ -1,5 +1,5 @@
 ---
-icon: 
+icon: repo-template
 order: 998
 ---
 

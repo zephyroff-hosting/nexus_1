@@ -1,5 +1,5 @@
 ---
-icon: 
+icon: file-code
 order: 998
 ---
 La commande analyse est une intégration de l'outil pylint qui permet d'analyser le code dans le but de déterminer la qualité du code et de proposer des axes d'améliorations pour se rapprocher des recommandations PEP.
