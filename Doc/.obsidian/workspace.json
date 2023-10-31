@@ -73,7 +73,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "concept",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -90,7 +90,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -173,17 +174,17 @@
   },
   "active": "725b29325f85e731",
   "lastOpenFiles": [
+    "Code analysis/clearcode.md",
+    "Code analysis/analyse.md",
+    "Architecture/nexus.toml.md",
     "Project Management/index.md",
     "Project Management/Création d'un projet.md",
     "Compilation.md",
     "Architecture/Concept.md",
-    "Architecture/nexus.toml.md",
     "Index.md",
     "Packaging.md",
     "Publication.md",
     "Architecture/index.md",
-    "Code analysis/analyse.md",
-    "Code analysis/clearcode.md",
     "Code analysis/index.md",
     "Code analysis/securiscan.md",
     "Environment Management/Ajouter un environnement existant.md",
