@@ -17,8 +17,7 @@ virtualenvs.in-project: Détermine si l'environnement doit être créé dans le 
 virtualenvs.symlinks: Détermine si l'environnement fait des liens symboliques ou copie les exécutables Python
 virtualenvs.system-site-packages: Détermine si l'environnement peut utiliser le site-packages du système
 virtualenvs.foldername: Détermine le nom du répertoire des environnements virtuels
-
-
+<br><br>
 #### Options
 
 **-d** ou **--default** pour définir ce nouvel environnement comme l'environnement par défaut

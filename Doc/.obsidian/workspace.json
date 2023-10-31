@@ -1,0 +1,194 @@
+{
+  "main": {
+    "id": "caae65d5ab2ab47a",
+    "type": "split",
+    "children": [
+      {
+        "id": "e638a6775fcc17f0",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "41263e6e1156226f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Project Management/Création d'un projet.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "68afa88ea6306a66",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Project Management/versioning.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "004690652c964f5c",
+    "type": "split",
+    "children": [
+      {
+        "id": "21ad29bd7c0f5afd",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "15a9615b1f06c435",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "8aad548462244b80",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "0a25a4d1653187c6",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "9a6334c88d0c67be",
+    "type": "split",
+    "children": [
+      {
+        "id": "afaf0e167b2831cb",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "623ab39b0cc98f76",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Project Management/versioning.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "afa3c254463138c0",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Project Management/versioning.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "3f1b109e20cd3570",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "783a75b6f853879f",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Project Management/versioning.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Ouvrir le sélecteur rapide": false,
+      "graph:Ouvrir la vue graphique": false,
+      "canvas:Créer une nouvelle toile": false,
+      "daily-notes:Ouvrir la note quotidienne": false,
+      "templates:Insérer le modèle": false,
+      "command-palette:Ouvrir la palette de commandes": false
+    }
+  },
+  "active": "68afa88ea6306a66",
+  "lastOpenFiles": [
+    "Project Management/Initialisation à partir de code existant.md",
+    "Project Management/versioning.md",
+    "Environment Management/Création d'un environnement.md",
+    "Environment Management/Environnement par défaut.md",
+    "Environment Management/Environnement virtuel.md",
+    "Environment Management/Migration d'environnement.md",
+    "Environment Management/Sandbox.md",
+    "Environment Management/Supprimer un environnement.md",
+    "Environment Management/Travail dans un environnement.md",
+    "Project Management/Création d'un projet.md",
+    "Environment Management/Cloner un environnement.md",
+    "Environment Management/Ajouter un environnement existant.md",
+    "Architecture/nexus.toml.md",
+    "Architecture/Concept.md",
+    "Project Management",
+    "Architecture",
+    "Untitled.md",
+    "Code analysis/securiscan.md",
+    "Code analysis/clearcode.md",
+    "Code analysis/analyse.md",
+    "Index.md",
+    "Environment Management",
+    "Packaging",
+    "Backup",
+    "Code analysis",
+    "Repository",
+    "Environment Management",
+    "Package Management",
+    "Architecture"
+  ]
+}

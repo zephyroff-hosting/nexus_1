@@ -2,7 +2,7 @@
 Il existe plusieurs solutions pour travailler dans un environnement virtuel, ouvrir un environnement, ouvrir le prompt Python ou encore exécuter une commande dans l'environnement.
 
 Entrer dans un environnement virtuel Python signifie configurer votre terminal ou votre invite de commande pour utiliser l'installation Python et les dépendances spécifiques à cet environnement virtuel. Cela isole l'environnement virtuel, garantissant que les commandes Python et les exécutions de scripts utilisent les packages installés dans cet environnement spécifique.
-
+<br><br>
 ## Entrer dans un environnement
 
 Deux méthodes, utiliser la commande **nxs env** sans aucun paramètre ouvrira l'environnement par défaut 
@@ -17,8 +17,7 @@ Pour entrer dans un environnement spécifique, il faudra utiliser l'argument **-
 ```console
 nxs env --open {ENVNAME}
 ```
-
-
+<br><br>
 ## Ouvrir le prompt Python
 
 La commande shell va permettre d'ouvrir directement le prompt Python de l'environnement virtuel sans passer par la phase d'entrée dans l'environnement.
@@ -29,7 +28,7 @@ nxs shell
 
 Sans paramètre, la commande va ouvrir l'environnement par défaut
 Pour ouvrir un shell d'un environnement spécifique, il faudra utiliser l'argument **-e** ou **--env**
-
+<br><br>
 ## Exécuter une commande ou script
 
 Nexus propose d'exécuter une commande directement dans un environnement sans l'ouvrir.
@@ -43,8 +42,7 @@ Il est également possible d'exécuter un fichier .py
 ```console
 nxs run {FILE}
 ```
-
-
+<br><br>
 #### Options
 
 Par défaut, la commande utilisera l'environnement par défaut. Pour utiliser un environnement spécifique, il faudra utiliser l'argument **-e** ou **--env**

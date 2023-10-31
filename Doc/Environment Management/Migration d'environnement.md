@@ -6,8 +6,7 @@ nxs env --migrate {ENVNAME}
 ```
 
 Il faudra à minima préciser le nom de l'environnement
-
-
+<br><br>
 #### Options
 
 **-D** ou **--dest** définie le chemin de destination de l'environnement
