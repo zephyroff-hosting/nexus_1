@@ -1,12 +1,12 @@
 input: Doc
 output: .retype
-url: zephyroff.github.io/Nexus/ # Add your website here
+url: nexus.apajak.fr/Nexus/ # Add your website here
 branding:
   title: Nexus Project
   label: Docs
 poweredByRetype: true
 links:
   - text: Getting Started
-    link: https://zephyroff.github.io/
+    link: nexus.apajak.fr/Nexus/
 footer:
   copyright: "&copy; Copyright . All rights reserved."
