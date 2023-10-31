@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Project Management/versioning.md",
+                "file": "Architecture/Concept.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Project Management/versioning.md",
+                "file": "Architecture/Concept.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Project Management/versioning.md",
+                "file": "Architecture/Concept.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Project Management/versioning.md"
+                "file": "Architecture/Concept.md"
               }
             }
           }
@@ -161,8 +161,12 @@
   },
   "active": "68afa88ea6306a66",
   "lastOpenFiles": [
-    "Project Management/Initialisation à partir de code existant.md",
-    "Project Management/versioning.md",
+    "Architecture/nexus.toml.md",
+    "Code analysis/analyse.md",
+    "Code analysis/clearcode.md",
+    "Code analysis/securiscan.md",
+    "Environment Management/Ajouter un environnement existant.md",
+    "Environment Management/Cloner un environnement.md",
     "Environment Management/Création d'un environnement.md",
     "Environment Management/Environnement par défaut.md",
     "Environment Management/Environnement virtuel.md",
@@ -171,16 +175,13 @@
     "Environment Management/Supprimer un environnement.md",
     "Environment Management/Travail dans un environnement.md",
     "Project Management/Création d'un projet.md",
-    "Environment Management/Cloner un environnement.md",
-    "Environment Management/Ajouter un environnement existant.md",
-    "Architecture/nexus.toml.md",
+    "Project Management/Initialisation à partir de code existant.md",
+    "Project Management/versioning.md",
+    "Compilation.md",
     "Architecture/Concept.md",
     "Project Management",
     "Architecture",
     "Untitled.md",
-    "Code analysis/securiscan.md",
-    "Code analysis/clearcode.md",
-    "Code analysis/analyse.md",
     "Index.md",
     "Environment Management",
     "Packaging",

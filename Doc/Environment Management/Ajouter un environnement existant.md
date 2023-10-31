@@ -9,6 +9,5 @@ Il faudra à minima préciser le chemin vers l'environnement
 <br><br>
 #### Options
 
-**--name** définie le nom de l'environnement
-
-**-d** ou **--default** pour définir ce nouvel environnement comme l'environnement par défaut
+**--name** définie le nom de l'environnement<br>
+**-d** ou **--default** pour définir ce nouvel environnement comme l'environnement par défaut<br>

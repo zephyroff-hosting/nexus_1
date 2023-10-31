@@ -9,4 +9,4 @@ Il faudra à minima préciser le nom de l'environnement
 <br><br>
 #### Options
 
-**-D** ou **--dest** définie le chemin de destination de l'environnement
+**-D** ou **--dest** définie le chemin de destination de l'environnement<br>

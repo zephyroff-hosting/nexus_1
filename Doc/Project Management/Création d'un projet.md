@@ -1,4 +1,4 @@
-Nexus propose de créer très rapidement un nouveau projet qui se base sur la structure décrite dans la partie [[Architecture/Concept|Concept]]. Pour cela, on utilise la commande new
+Nexus propose de créer très rapidement un nouveau projet qui se base sur la structure décrite dans la partie concept. Pour cela, on utilise la commande new
 
 ```console
 nxs new {PATH}
@@ -22,12 +22,12 @@ Une fois les informations renseignées, le projet sera créé et les différents
 
 La majorité de ces options se retrouve dans la configuration Nexus met propose d'être dissocié et donc d'être appliqué uniquement sur la création de ce projet.
 
-**--env** pour créer un environnement virtuel
-**--noenv** pour ne pas créer d'environnement virtuel
-**--clear** pour supprimer le répertoire de l'environnement si non vide
-**--upgradepip** pour mettre à jour pip au moment de la création
-**--inproject** pour placer l'environnement dans le répertoire du projet
-**--incache** pour placer l'environnement dans le répertoire de cache
-**--envpath** pour spécifier le répertoire de l'environnement
-**--repo** pour créer un repo dans le projet
-**--norepo** pour ne pas créer un repo dans le projet
+**--env** pour créer un environnement virtuel<br>
+**--noenv** pour ne pas créer d'environnement virtuel<br>
+**--clear** pour supprimer le répertoire de l'environnement si non vide<br>
+**--upgradepip** pour mettre à jour pip au moment de la création<br>
+**--inproject** pour placer l'environnement dans le répertoire du projet<br>
+**--incache** pour placer l'environnement dans le répertoire de cache<br>
+**--envpath** pour spécifier le répertoire de l'environnement<br>
+**--repo** pour créer un repo dans le projet<br>
+**--norepo** pour ne pas créer un repo dans le projet<br>
