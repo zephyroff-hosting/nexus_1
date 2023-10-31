@@ -13,26 +13,38 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Project Management/Création d'un projet.md",
+                "file": "Compilation.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "68afa88ea6306a66",
+            "id": "e0e0eba5782e1145",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Architecture/Concept.md",
+                "file": "Packaging.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "725b29325f85e731",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Publication.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -98,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Architecture/Concept.md",
+                "file": "Publication.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Architecture/Concept.md",
+                "file": "Publication.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Architecture/Concept.md"
+                "file": "Publication.md"
               }
             }
           }
@@ -159,12 +171,21 @@
       "command-palette:Ouvrir la palette de commandes": false
     }
   },
-  "active": "68afa88ea6306a66",
+  "active": "725b29325f85e731",
   "lastOpenFiles": [
+    "Project Management/index.md",
+    "Environment Management/index.md",
+    "Architecture/index.md",
+    "Code analysis/index.md",
     "Architecture/nexus.toml.md",
-    "Code analysis/analyse.md",
-    "Code analysis/clearcode.md",
+    "Architecture/Concept.md",
+    "Project Management/Création d'un projet.md",
+    "Publication.md",
+    "Packaging.md",
     "Code analysis/securiscan.md",
+    "Code analysis/clearcode.md",
+    "Code analysis/analyse.md",
+    "Compilation.md",
     "Environment Management/Ajouter un environnement existant.md",
     "Environment Management/Cloner un environnement.md",
     "Environment Management/Création d'un environnement.md",
@@ -174,11 +195,8 @@
     "Environment Management/Sandbox.md",
     "Environment Management/Supprimer un environnement.md",
     "Environment Management/Travail dans un environnement.md",
-    "Project Management/Création d'un projet.md",
     "Project Management/Initialisation à partir de code existant.md",
     "Project Management/versioning.md",
-    "Compilation.md",
-    "Architecture/Concept.md",
     "Project Management",
     "Architecture",
     "Untitled.md",
