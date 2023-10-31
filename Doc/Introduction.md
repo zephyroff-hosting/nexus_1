@@ -1,5 +1,5 @@
 ---
-icon: 
+icon: home
 order: 999
 ---
 Nexus est un outil qui se veut être un gestionnaire de projet Python complet.
