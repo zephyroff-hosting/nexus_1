@@ -1,6 +1,6 @@
 input: Doc
 output: .retype
-url: https://zephyroff.github.io/Nexus # Add your website here
+url: zephyroff.github.io/Nexus/ # Add your website here
 branding:
   title: Nexus Project
   label: Docs
