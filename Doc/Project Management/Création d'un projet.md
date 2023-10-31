@@ -3,7 +3,7 @@ icon: git-pull-request-draft
 order: 998
 ---
 
-Nexus propose de créer très rapidement un nouveau projet qui se base sur la structure décrite dans la partie [!ref concept](Architecture/Concept.md) . Pour cela, on utilise la commande new
+Nexus propose de créer très rapidement un nouveau projet qui se base sur la structure décrite dans la partie [concept](Architecture/Concept.md) . Pour cela, on utilise la commande new
 
 ```console
 nxs new {PATH}
