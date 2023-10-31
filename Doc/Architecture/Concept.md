@@ -1,5 +1,5 @@
 ---
-icon: git-pull-request-draft
+icon: book
 order: 999
 ---
 Un projet Nexus contient plusieurs éléments:

@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Project Management/Création d'un projet.md",
+                "file": "Architecture/index.md",
                 "mode": "source",
                 "source": false
               }
@@ -73,7 +73,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "concept",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -90,8 +90,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -111,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Project Management/Création d'un projet.md",
+                "file": "Architecture/index.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -128,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Project Management/Création d'un projet.md",
+                "file": "Architecture/index.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -151,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Project Management/Création d'un projet.md"
+                "file": "Architecture/index.md"
               }
             }
           }
@@ -174,31 +173,31 @@
   },
   "active": "725b29325f85e731",
   "lastOpenFiles": [
-    "Code analysis/clearcode.md",
-    "Code analysis/analyse.md",
-    "Architecture/nexus.toml.md",
-    "Project Management/index.md",
-    "Project Management/Création d'un projet.md",
-    "Compilation.md",
     "Architecture/Concept.md",
     "Index.md",
-    "Packaging.md",
-    "Publication.md",
-    "Architecture/index.md",
+    "Architecture/nexus.toml.md",
     "Code analysis/index.md",
+    "Project Management/versioning.md",
+    "Environment Management/index.md",
+    "Architecture/index.md",
+    "Code analysis/analyse.md",
+    "Code analysis/clearcode.md",
     "Code analysis/securiscan.md",
     "Environment Management/Ajouter un environnement existant.md",
     "Environment Management/Cloner un environnement.md",
     "Environment Management/Création d'un environnement.md",
     "Environment Management/Environnement par défaut.md",
     "Environment Management/Environnement virtuel.md",
-    "Environment Management/index.md",
     "Environment Management/Migration d'environnement.md",
     "Environment Management/Sandbox.md",
     "Environment Management/Supprimer un environnement.md",
     "Environment Management/Travail dans un environnement.md",
     "Project Management/Initialisation à partir de code existant.md",
-    "Project Management/versioning.md",
+    "Project Management/Création d'un projet.md",
+    "Project Management/index.md",
+    "Compilation.md",
+    "Packaging.md",
+    "Publication.md",
     "Project Management",
     "Architecture",
     "Untitled.md",

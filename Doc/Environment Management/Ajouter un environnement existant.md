@@ -1,5 +1,5 @@
 ---
-icon: git-pull-request-draft
+icon: 
 order: 998
 ---
 Il est possible d'assigner un environnement existant à un projet

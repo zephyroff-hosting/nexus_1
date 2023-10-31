@@ -1,5 +1,5 @@
 ---
-icon: git-pull-request-draft
+icon: 
 order: 998
 ---
 Nexus propose un système d'environnement virtuel. 

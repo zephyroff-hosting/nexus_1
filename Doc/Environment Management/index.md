@@ -1,5 +1,5 @@
 ---
-icon: git-pull-request-draft
+icon: stack
 order: 998
 ---
 Nexus propose un système complet pour travailler sur des environnements virtuels, les gérer, les cloner au besoin.

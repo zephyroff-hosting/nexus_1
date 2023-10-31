@@ -1,5 +1,5 @@
 ---
-icon: git-pull-request-draft
+icon: 
 order: 998
 ---
 Il est possible de migrer un environnement virtuel du cache vers le projet ou inversement

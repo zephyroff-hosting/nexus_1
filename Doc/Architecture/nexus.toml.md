@@ -1,5 +1,5 @@
 ---
-icon: git-pull-request-draft
+icon: file
 order: 998
 ---
 Le fichier nexus.toml contient l'ensemble des informations et des paramètres qui seront nécessaire pour le bon fonctionnement de Nexus.
