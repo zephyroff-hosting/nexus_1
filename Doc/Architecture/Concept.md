@@ -1,4 +1,7 @@
-
+---
+icon: git-pull-request-draft
+order: 999
+---
 Un projet Nexus contient plusieurs éléments:
 - Un fichier nexus.toml qui contient la configuration du projet
 - Un fichier README.md

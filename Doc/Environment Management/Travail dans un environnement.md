@@ -1,4 +1,7 @@
-
+---
+icon: git-pull-request-draft
+order: 998
+---
 Il existe plusieurs solutions pour travailler dans un environnement virtuel, ouvrir un environnement, ouvrir le prompt Python ou encore exécuter une commande dans l'environnement.
 
 Entrer dans un environnement virtuel Python signifie configurer votre terminal ou votre invite de commande pour utiliser l'installation Python et les dépendances spécifiques à cet environnement virtuel. Cela isole l'environnement virtuel, garantissant que les commandes Python et les exécutions de scripts utilisent les packages installés dans cet environnement spécifique.

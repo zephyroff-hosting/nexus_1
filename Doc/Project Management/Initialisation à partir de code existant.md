@@ -1,3 +1,7 @@
+---
+icon: git-pull-request-draft
+order: 998
+---
 Dans le cas où vous avez déjà des projets existants, il est possible de le "convertir" en projet Nexus pour être géré par la suite par cette solution.
 
 ```console

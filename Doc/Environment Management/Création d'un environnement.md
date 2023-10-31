@@ -1,4 +1,7 @@
-
+---
+icon: git-pull-request-draft
+order: 998
+---
 Pour la création d'un environnement virtuel, nous utilisons l'argument **env --create**
 
 ```console

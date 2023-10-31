@@ -1,4 +1,7 @@
-
+---
+icon: git-pull-request-draft
+order: 998
+---
 Dans la majorité des commandes, Nexus tentera de retrouver dans le fichier de configuration du projet si un environnement par défaut est configuré, si c'est le cas il lancera ces actions dessus, dans le cas contraire, il lancera ces actions sur le python racine.
 <br><br>
 ## Définir en environnement par défaut

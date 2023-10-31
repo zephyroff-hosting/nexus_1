@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Publication.md",
+                "file": "Project Management/Création d'un projet.md",
                 "mode": "source",
                 "source": false
               }
@@ -110,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Publication.md",
+                "file": "Project Management/Création d'un projet.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Publication.md",
+                "file": "Project Management/Création d'un projet.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Publication.md"
+                "file": "Project Management/Création d'un projet.md"
               }
             }
           }
@@ -174,23 +174,24 @@
   "active": "725b29325f85e731",
   "lastOpenFiles": [
     "Project Management/index.md",
-    "Environment Management/index.md",
-    "Architecture/index.md",
-    "Code analysis/index.md",
-    "Architecture/nexus.toml.md",
-    "Architecture/Concept.md",
     "Project Management/Création d'un projet.md",
-    "Publication.md",
-    "Packaging.md",
-    "Code analysis/securiscan.md",
-    "Code analysis/clearcode.md",
-    "Code analysis/analyse.md",
     "Compilation.md",
+    "Architecture/Concept.md",
+    "Architecture/nexus.toml.md",
+    "Index.md",
+    "Packaging.md",
+    "Publication.md",
+    "Architecture/index.md",
+    "Code analysis/analyse.md",
+    "Code analysis/clearcode.md",
+    "Code analysis/index.md",
+    "Code analysis/securiscan.md",
     "Environment Management/Ajouter un environnement existant.md",
     "Environment Management/Cloner un environnement.md",
     "Environment Management/Création d'un environnement.md",
     "Environment Management/Environnement par défaut.md",
     "Environment Management/Environnement virtuel.md",
+    "Environment Management/index.md",
     "Environment Management/Migration d'environnement.md",
     "Environment Management/Sandbox.md",
     "Environment Management/Supprimer un environnement.md",
@@ -200,7 +201,6 @@
     "Project Management",
     "Architecture",
     "Untitled.md",
-    "Index.md",
     "Environment Management",
     "Packaging",
     "Backup",

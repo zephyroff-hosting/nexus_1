@@ -1,3 +1,7 @@
+---
+icon: git-pull-request-draft
+order: 998
+---
 Nexus propose de créer très rapidement un nouveau projet qui se base sur la structure décrite dans la partie concept. Pour cela, on utilise la commande new
 
 ```console

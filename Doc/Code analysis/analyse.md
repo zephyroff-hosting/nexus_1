@@ -1,3 +1,7 @@
+---
+icon: git-pull-request-draft
+order: 998
+---
 La commande analyse est une intégration de l'outil pylint qui permet d'analyser le code dans le but de déterminer la qualité du code et de proposer des axes d'améliorations pour se rapprocher des recommandations PEP.
 L'analyse va alors nous ressortir la liste des éléments à modifier dans notre code, ainsi qu'une note sur 10 qui sera base en fonction du nombre de problème à corriger.
 

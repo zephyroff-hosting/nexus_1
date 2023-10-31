@@ -1,4 +1,7 @@
-
+---
+icon: git-pull-request-draft
+order: 998
+---
 Il est possible de cloner un environnement virtuel existant avec l'ensemble des paramètres et dépendances de celui-ci
 
 ```console
