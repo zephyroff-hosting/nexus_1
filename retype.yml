@@ -7,6 +7,6 @@ branding:
 poweredByRetype: true
 links:
   - text: Repository
-    link: pypi.org/project/nexus-project
+    link: https://pypi.org/project/nexus-project
 footer:
   copyright: "&copy; Copyright . All rights reserved."
