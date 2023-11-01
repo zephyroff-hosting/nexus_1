@@ -148,6 +148,8 @@
   },
   "active": "725b29325f85e731",
   "lastOpenFiles": [
+    "assets/logo.png",
+    "assets",
     "Compilation.md",
     "Publication.md",
     "Packaging.md",
@@ -181,7 +183,6 @@
     "Code analysis",
     "Repository",
     "Environment Management",
-    "Package Management",
-    "Architecture"
+    "Package Management"
   ]
 }
