@@ -1,6 +1,6 @@
 ---
 icon: git-compare
-order: 3
+order: 993
 ---
 Nexus propose un système de compilation basé sur une intégration de cx_freeze grâce à ma commande compile
 

@@ -1,6 +1,6 @@
 ---
 icon: 
-order: 998
+order: 996
 ---
 Nexus propose un système d'environnement virtuel. 
 Un environnement virtuel Python est un espace isolé et autonome dans lequel vous pouvez installer des paquets, dépendances et versions spécifiques de Python pour un projet donné. Ce mécanisme vous permet de maintenir différentes configurations et dépendances de packages pour différents projets, sans interférer avec d'autres environnements Python.

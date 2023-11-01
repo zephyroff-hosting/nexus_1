@@ -1,6 +1,6 @@
 ---
 icon: upload
-order: 1
+order: 994
 ---
 Nexus propose une solution pour publier ces packages sur le repo de notre choix (par défaut pypi.org)
 

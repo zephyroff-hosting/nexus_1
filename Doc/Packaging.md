@@ -1,6 +1,6 @@
 ---
 icon: package
-order: 2
+order: 995
 ---
 Nexus propose un système pour faire un package du projet en cours en .whl et/ou .tar.gz pour ensuite être publié sur les repo.
 

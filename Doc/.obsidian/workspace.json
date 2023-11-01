@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "index.md",
+                "file": "Code analysis/index.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "index.md",
+                "file": "Code analysis/index.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "index.md",
+                "file": "Code analysis/index.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "index.md"
+                "file": "Code analysis/index.md"
               }
             }
           }
@@ -148,6 +148,13 @@
   },
   "active": "725b29325f85e731",
   "lastOpenFiles": [
+    "Compilation.md",
+    "Publication.md",
+    "Packaging.md",
+    "Environment Management/index.md",
+    "Project Management/index.md",
+    "Architecture/index.md",
+    "index.md",
     "Environment Management/Travail dans un environnement.md",
     "Environment Management/Supprimer un environnement.md",
     "Environment Management/Sandbox.md",
@@ -157,23 +164,15 @@
     "Environment Management/Création d'un environnement.md",
     "Environment Management/Cloner un environnement.md",
     "Environment Management/Ajouter un environnement existant.md",
-    "Environment Management/index.md",
-    "Environment Management/index.md",
-    "Packaging.md",
     "Project Management/Création d'un projet.md",
     "Code analysis/securiscan.md",
     "Code analysis/clearcode.md",
     "Code analysis/analyse.md",
     "Project Management/versioning.md",
     "Project Management/Initialisation à partir de code existant.md",
-    "Architecture/index.md",
     "Architecture/Concept.md",
-    "index.md",
     "Architecture/nexus.toml.md",
     "Code analysis/index.md",
-    "Project Management/index.md",
-    "Compilation.md",
-    "Publication.md",
     "Project Management",
     "Architecture",
     "Environment Management",
