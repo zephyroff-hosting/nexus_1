@@ -4,9 +4,16 @@ url: nexus.apajak.fr/Nexus/ # Add your website here
 branding:
   title: Nexus Project
   label: Docs
+  logo: assets/logo.png          # Path to a logo file.
+  logoDark: assets/logo.png # Path to a logo file to use in dark mode.
 poweredByRetype: true
 links:
   - text: Repository
     link: https://pypi.org/project/nexus-project
 footer:
   copyright: "&copy; Copyright . All rights reserved."
+
+favicon: assets/logo.png
+
+editor:
+  enabled: false
