@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "1cd272bfaa5f38a6",
+        "id": "e638a6775fcc17f0",
         "type": "tabs",
         "children": [
           {
-            "id": "1b02cd25a22d4274",
+            "id": "725b29325f85e731",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Private.md",
+                "file": "Protected.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Private.md",
+                "file": "Protected.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Private.md",
+                "file": "Protected.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Private.md"
+                "file": "Protected.md"
               }
             }
           }
@@ -146,40 +146,40 @@
       "command-palette:Ouvrir la palette de commandes": false
     }
   },
-  "active": "1b02cd25a22d4274",
+  "active": "725b29325f85e731",
   "lastOpenFiles": [
+    "assets/psAAC7.tmp",
+    "index.md",
+    "assets/logo_short.png",
+    "Template/index.yml",
+    "Template/header.md",
+    "Template/console.md",
+    "Template/badge.md",
+    "Template",
+    "Sauvegarde.md",
+    "README.md",
     "Provisioning.md",
     "Protected.md",
     "Private.md",
-    "README.md",
-    "assets/logo_short.png",
-    "Code analysis/clearcode.md",
-    "Code analysis/securiscan.md",
-    "Code analysis/analyse.md",
+    "Package Management/index.md",
+    "Package Management",
     "Architecture/Configuration.md",
-    "Architecture/nexus.toml.md",
-    "Architecture/Concept.md",
+    "Code analysis/index.md",
+    "assets/logo.png",
+    "assets",
+    "Compilation.md",
+    "Publication.md",
+    "Packaging.md",
+    "Environment Management/index.md",
+    "Project Management/index.md",
+    "Architecture/index.md",
     "Environment Management/Travail dans un environnement.md",
     "Environment Management/Supprimer un environnement.md",
     "Environment Management/Sandbox.md",
     "Environment Management/Migration d'environnement.md",
     "Environment Management/Lister les environnements.md",
-    "Environment Management/Ajouter un environnement existant.md",
-    "Environment Management/Cloner un environnement.md",
     "Environment Management/Environnement par défaut.md",
     "Environment Management/Création d'un environnement.md",
-    "Project Management/Création d'un projet.md",
-    "Package Management/index.md",
-    "Project Management/versioning.md",
-    "Project Management/Initialisation à partir de code existant.md",
-    "Compilation.md",
-    "Packaging.md",
-    "Publication.md",
-    "Template/index.yml",
-    "Package Management",
-    "Template",
-    "assets/logo.png",
-    "assets",
     "Project Management",
     "Architecture",
     "Environment Management",
