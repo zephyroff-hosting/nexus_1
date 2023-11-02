@@ -62,7 +62,7 @@ Chacun agit sur un ou plusieurs composants.
 [!badge variant="info" text="threadmax"] : Défini le nombre maximum de thread parallèle
 <br>
 
-#### virtualenvs
+#### <u>virtualenvs</u>
 
 Ces paramètres seront utilisés pour la création d'un environnement virtuel.
 
@@ -76,7 +76,7 @@ Ces paramètres seront utilisés pour la création d'un environnement virtuel.
 [!badge variant="info" text="virtualenvs.prompt"] : Défini le modèle de prompt qui sera utilisé dans l'environnement<br>
 <br>
 
-#### logs
+#### <u>logs</u>
 Ces paramètres seront utilisés pour définir le niveau de logs souhaité.
 
 [!badge variant="info" text="logs.display"] : Affiche les logs de l'application<br>
@@ -84,25 +84,25 @@ Ces paramètres seront utilisés pour définir le niveau de logs souhaité.
 [!badge variant="info" text="logs.date"] : Ajoute la date dans les logs<br>
 [!badge variant="info" text="logs.truecolor"] : Affiche les logs en version truecolor<br>
 <br>
-#### project
+#### <u>project</u>
 Ces paramètres seront utilisés pour délimiter le comportement du projet.
 
 [!badge variant="info" text="project.changelog"] : Alimentation d'un changelog en cas de changement de version<br>
 [!badge variant="info" text="project.deep_search"] : Niveau de recherche pour déterminer si on se trouve dans un projet<br>
 <br>
 
-#### publish
+#### <u>publish</u>
 Ces paramètres seront utilisés pour publier des packages sur un repo.
 
 [!badge variant="info" text="publish.url"] : URL du repo de package<br>
 [!badge variant="info" text="publish.username"] : Nom de l'utilisateur utilisé<br>
 <br>
-### metadata
+#### <u>metadata</u>
 Ces paramètres seront utilisés pour définir le comportement lors de la recherche de métadonnées sur un package.
 
 [!badge variant="info" text="metadata.source"] : URL du repo sur lequel chercher les métadonnées<br>
 
-#### repo
+#### <u>repo</u>
 Ces paramètres seront utilisés pour définir le comportement du repo de projet.
 
 [!badge variant="info" text="repo.create"] : Initialisation d'un repo en même temps que la création ou l'initialisation d'un projet<br>
