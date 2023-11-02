@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "Private.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
+                "file": "Private.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "README.md",
+                "file": "Private.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "README.md"
+                "file": "Private.md"
               }
             }
           }
@@ -148,8 +148,9 @@
   },
   "active": "1b02cd25a22d4274",
   "lastOpenFiles": [
-    "Private.md",
+    "Provisioning.md",
     "Protected.md",
+    "Private.md",
     "README.md",
     "assets/logo_short.png",
     "Code analysis/clearcode.md",
@@ -173,7 +174,6 @@
     "Project Management/Initialisation à partir de code existant.md",
     "Compilation.md",
     "Packaging.md",
-    "Provisioning.md",
     "Publication.md",
     "Template/index.yml",
     "Package Management",
