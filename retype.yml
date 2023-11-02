@@ -1,6 +1,7 @@
 input: Doc
 output: .retype
-url: nexus.apajak.fr/Nexus/ # Add your website here
+url: nexus.apajak.fr # Add your website here
+url: nexus.zephyroff.fr # Add your website here
 branding:
   title: Nexus Project
   label: Docs

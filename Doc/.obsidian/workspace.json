@@ -13,13 +13,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Code analysis/index.md",
+                "file": "Template/header.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "a7e21faed5e48474",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Architecture/Configuration.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Code analysis/index.md",
+                "file": "Architecture/Configuration.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Code analysis/index.md",
+                "file": "Architecture/Configuration.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Code analysis/index.md"
+                "file": "Architecture/Configuration.md"
               }
             }
           }
@@ -146,17 +159,24 @@
       "command-palette:Ouvrir la palette de commandes": false
     }
   },
-  "active": "725b29325f85e731",
+  "active": "a7e21faed5e48474",
   "lastOpenFiles": [
+    "index.md",
+    "Compilation.md",
+    "Architecture/Configuration.md",
+    "Architecture/Concept.md",
+    "Architecture/nexus.toml.md",
+    "Architecture/index.md",
+    "Template/header.md",
+    "Template/console.md",
+    "Code analysis/index.md",
+    "Template",
     "assets/logo.png",
     "assets",
-    "Compilation.md",
     "Publication.md",
     "Packaging.md",
     "Environment Management/index.md",
     "Project Management/index.md",
-    "Architecture/index.md",
-    "index.md",
     "Environment Management/Travail dans un environnement.md",
     "Environment Management/Supprimer un environnement.md",
     "Environment Management/Sandbox.md",
@@ -170,11 +190,6 @@
     "Code analysis/securiscan.md",
     "Code analysis/clearcode.md",
     "Code analysis/analyse.md",
-    "Project Management/versioning.md",
-    "Project Management/Initialisation à partir de code existant.md",
-    "Architecture/Concept.md",
-    "Architecture/nexus.toml.md",
-    "Code analysis/index.md",
     "Project Management",
     "Architecture",
     "Environment Management",
@@ -182,7 +197,6 @@
     "Backup",
     "Code analysis",
     "Repository",
-    "Environment Management",
-    "Package Management"
+    "Environment Management"
   ]
 }
