@@ -1,6 +1,6 @@
 ---
-icon: 
-order: 999
 visibility: protected
 ---
-Ma page
+# A protected page
+
+This page will be visible in the main navigation, but will require a password to view the page.
