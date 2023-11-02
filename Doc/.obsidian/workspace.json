@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Architecture/nexus.toml.md",
+                "file": "Code analysis/clearcode.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Architecture/nexus.toml.md",
+                "file": "Code analysis/clearcode.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Architecture/nexus.toml.md",
+                "file": "Code analysis/clearcode.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Architecture/nexus.toml.md"
+                "file": "Code analysis/clearcode.md"
               }
             }
           }
@@ -148,11 +148,12 @@
   },
   "active": "1b02cd25a22d4274",
   "lastOpenFiles": [
-    "Architecture/Configuration.md",
-    "Architecture/Concept.md",
     "Code analysis/securiscan.md",
     "Code analysis/clearcode.md",
     "Code analysis/analyse.md",
+    "Architecture/Configuration.md",
+    "Architecture/nexus.toml.md",
+    "Architecture/Concept.md",
     "Environment Management/Travail dans un environnement.md",
     "Environment Management/Supprimer un environnement.md",
     "Environment Management/Sandbox.md",
@@ -174,7 +175,6 @@
     "Code analysis/index.md",
     "Template/index.yml",
     "index.md",
-    "Environment Management/index.md",
     "Package Management",
     "Template",
     "assets/logo.png",
