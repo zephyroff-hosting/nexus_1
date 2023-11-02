@@ -148,6 +148,9 @@
   },
   "active": "1b02cd25a22d4274",
   "lastOpenFiles": [
+    "Private.md",
+    "Protected.md",
+    "README.md",
     "assets/logo_short.png",
     "Code analysis/clearcode.md",
     "Code analysis/securiscan.md",
@@ -172,8 +175,6 @@
     "Packaging.md",
     "Provisioning.md",
     "Publication.md",
-    "Sauvegarde.md",
-    "Code analysis/index.md",
     "Template/index.yml",
     "Package Management",
     "Template",
