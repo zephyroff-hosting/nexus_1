@@ -18,3 +18,6 @@ favicon: assets/logo.png
 
 editor:
   enabled: false
+
+exclude:
+  - "Doc/Template"
