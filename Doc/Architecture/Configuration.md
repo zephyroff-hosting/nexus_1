@@ -11,6 +11,7 @@ nxs config
 ```
 <br>
 Il existe 2 types de paramètres:
+
 - ***Les paramètres booléen***: Qui sont modifiables simplement en donnant le nom du paramètre dans l'appel de la commande
 
 ```console
