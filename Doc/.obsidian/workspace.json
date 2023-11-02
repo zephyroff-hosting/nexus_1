@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Package Management/search.md",
+                "file": "Package Management/add.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Package Management/search.md",
+                "file": "Package Management/add.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Package Management/search.md",
+                "file": "Package Management/add.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Package Management/search.md"
+                "file": "Package Management/add.md"
               }
             }
           }
@@ -148,8 +148,8 @@
   },
   "active": "725b29325f85e731",
   "lastOpenFiles": [
-    "Package Management/add.md",
     "Package Management/search.md",
+    "Package Management/add.md",
     "Protected.md",
     "assets/ps18CB.tmp",
     "assets/psAAC7.tmp",
