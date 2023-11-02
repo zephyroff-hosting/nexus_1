@@ -55,7 +55,7 @@ nxs config --reload
 Ces paramètres sont regroupés en catégories (general, virtualenvs, logs, project, publish, repo).
 Chacun agit sur un ou plusieurs composants.
 <br>
-#### general
+#### <u>general</u>
 [!badge variant="info" text="cache-dir"] : Défini l'emplacement du répertoire de cache<br>
 [!badge variant="info" text="proxy"] : Configuration d'un proxy pour les commandes ayant besoin d'internet<br>
 [!badge variant="info" text="threading"] : Active l'utilisation de multi-thread pour les traitements<br>
