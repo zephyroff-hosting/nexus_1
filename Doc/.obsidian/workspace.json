@@ -148,6 +148,7 @@
   },
   "active": "725b29325f85e731",
   "lastOpenFiles": [
+    "assets/ps18CB.tmp",
     "assets/psAAC7.tmp",
     "index.md",
     "assets/logo_short.png",
@@ -184,7 +185,6 @@
     "Architecture",
     "Environment Management",
     "Packaging",
-    "Backup",
-    "Code analysis"
+    "Backup"
   ]
 }
