@@ -1,8 +1,9 @@
 ---
 icon: home
 order: 999
+label: Introduction
 ---
-# Introduction
+![](assets/logo.png)
 
 Nexus est un outil qui se veut être un gestionnaire de projet Python complet.
 L'objectif est de centraliser l'ensemble des besoins d'un développeur Python au même endroit pour faciliter son utilisation et limiter la nécessité d'installer de multiples outils.
