@@ -59,9 +59,8 @@ Chacun agit sur un ou plusieurs composants.
 [!badge variant="info" text="cache-dir"] : Défini l'emplacement du répertoire de cache<br>
 [!badge variant="info" text="proxy"] : Configuration d'un proxy pour les commandes ayant besoin d'internet<br>
 [!badge variant="info" text="threading"] : Active l'utilisation de multi-thread pour les traitements<br>
-[!badge variant="info" text="threadmax"] : Défini le nombre maximum de thread parallèle
+[!badge variant="info" text="threadmax"] : Défini le nombre maximum de thread parallèle<br>
 <br>
-
 #### <u>virtualenvs</u>
 
 Ces paramètres seront utilisés pour la création d'un environnement virtuel.
