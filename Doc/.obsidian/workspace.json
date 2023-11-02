@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Protected.md",
+                "file": "Package Management/search.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Protected.md",
+                "file": "Package Management/search.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Protected.md",
+                "file": "Package Management/search.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Protected.md"
+                "file": "Package Management/search.md"
               }
             }
           }
@@ -148,6 +148,9 @@
   },
   "active": "725b29325f85e731",
   "lastOpenFiles": [
+    "Package Management/add.md",
+    "Package Management/search.md",
+    "Protected.md",
     "assets/ps18CB.tmp",
     "assets/psAAC7.tmp",
     "index.md",
@@ -160,7 +163,6 @@
     "Sauvegarde.md",
     "README.md",
     "Provisioning.md",
-    "Protected.md",
     "Private.md",
     "Package Management/index.md",
     "Package Management",
@@ -180,11 +182,9 @@
     "Environment Management/Migration d'environnement.md",
     "Environment Management/Lister les environnements.md",
     "Environment Management/Environnement par défaut.md",
-    "Environment Management/Création d'un environnement.md",
     "Project Management",
     "Architecture",
     "Environment Management",
-    "Packaging",
-    "Backup"
+    "Packaging"
   ]
 }
