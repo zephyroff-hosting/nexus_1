@@ -15,7 +15,7 @@ nxs env
 ```
 
 
-Pour entrer dans un environnement spécifique, il faudra utiliser l'argument **--open**
+Pour entrer dans un environnement spécifique, il faudra utiliser l'argument [!badge variant="info" text="--open"]
 
 ```console
 nxs env --open {ENVNAME}
@@ -30,7 +30,7 @@ nxs shell
 ```
 
 Sans paramètre, la commande va ouvrir l'environnement par défaut
-Pour ouvrir un shell d'un environnement spécifique, il faudra utiliser l'argument **-e** ou **--env**
+Pour ouvrir un shell d'un environnement spécifique, il faudra utiliser l'argument [!badge variant="info" text="-e"] ou [!badge variant="info" text="--env"]
 <br><br>
 ## Exécuter une commande ou script
 
@@ -48,9 +48,9 @@ nxs run {FILE}
 <br><br>
 #### Options
 
-Par défaut, la commande utilisera l'environnement par défaut. Pour utiliser un environnement spécifique, il faudra utiliser l'argument **-e** ou **--env**
+Par défaut, la commande utilisera l'environnement par défaut. Pour utiliser un environnement spécifique, il faudra utiliser l'argument [!badge variant="info" text="-e"] ou [!badge variant="info" text="--env"]
 
-Pour faciliter les tests, il est possible de définir des paramètres qui seront utilisés lors de l'exécution par la commande **--set**
+Pour faciliter les tests, il est possible de définir des paramètres qui seront utilisés lors de l'exécution par la commande [!badge variant="info" text="--set"]
 
 ```console
 nxs run --set {ARGUMENT}
@@ -59,11 +59,11 @@ nxs run --set {ARGUMENT}
 Ces paramètres seront stockés dans le fichier du projet et seront utilisés au lancement de la commande run
 
 
-Il est également possible de dissocier les exécutions de test (avec **--test**) et de prod (avec **--prod**) pour permettre de réaliser différents tests rapidement
+Il est également possible de dissocier les exécutions de test (avec [!badge variant="info" text="--test"]) et de prod (avec [!badge variant="info" text="--prod"]) pour permettre de réaliser différents tests rapidement
 
 ```console
 nxs run --prod {FILE}
 ```
 
 
-Pour contrôler les temps d'exécutions, l'option **-T** ou **--time** permet d'afficher le temps de la commande ou du script
+Pour contrôler les temps d'exécutions, l'option [!badge variant="info" text="-T"] ou [!badge variant="info" text="--time"] permet d'afficher le temps de la commande ou du script

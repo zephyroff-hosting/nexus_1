@@ -12,5 +12,5 @@ Il faudra à minima préciser le chemin vers l'environnement
 <br><br>
 #### Options
 
-**--name** définie le nom de l'environnement<br>
-**-d** ou **--default** pour définir ce nouvel environnement comme l'environnement par défaut<br>
+[!badge variant="info" text="--name"] définie le nom de l'environnement<br>
+[!badge variant="info" text="-d"] ou [!badge variant="info" text="--default"] pour définir ce nouvel environnement comme l'environnement par défaut<br>

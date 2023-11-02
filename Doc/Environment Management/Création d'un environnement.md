@@ -10,21 +10,12 @@ nxs env --create {ENVNAME}
 
 Il faudra à minima préciser le nom de l'environnement
 
-
-Dans la configuration Nexus, il existe des paramètres qui sont utilisés pour définir le comportement lors de la création des environnements
-
-virtualenvs.create: Détermine si un environnement virtuel est créé lors de la création d'un projet Nexus<br>
-virtualenvs.clear: Détermine si le dossier de l'environnement doit être nettoyer si non vide lors de la création<br>
-virtualenvs.upgradepip: Détermine si pip doit être mis à jour lors de la création<br>
-virtualenvs.in-project: Détermine si l'environnement doit être créé dans le répertoire du projet (sinon est créé dans le répertoire cache-dir)<br>
-virtualenvs.symlinks: Détermine si l'environnement fait des liens symboliques ou copie les exécutables Python<br>
-virtualenvs.system-site-packages: Détermine si l'environnement peut utiliser le site-packages du système<br>
-virtualenvs.foldername: Détermine le nom du répertoire des environnements virtuels
+Dans la [configuration Nexus](/Architecture/Configuration.md), il existe des paramètres qui sont utilisés pour définir le comportement lors de la création des environnements.
 <br><br>
 #### Options
 
-**-d** ou **--default** pour définir ce nouvel environnement comme l'environnement par défaut<br>
-**--withoutdeps** pour définir si les dépendances du projet doit être installés au moment de la création de l'environnement<br>
-**--clear** pour définir si le dossier de l'environnement doit être nettoyer si non vide lors de la création<br>
-**-C** ou **--cache** pour forcer la création de l'environnement dans le dossier de cache<br>
-**-p** ou **--prompt** pour définir le prompt dans l'environnement<br>
+[!badge variant="info" text="-d"] ou [!badge variant="info" text="--default"] pour définir ce nouvel environnement comme l'environnement par défaut<br>
+[!badge variant="info" text="--withoutdeps"] pour définir si les dépendances du projet doit être installés au moment de la création de l'environnement<br>
+[!badge variant="info" text="--clear"] pour définir si le dossier de l'environnement doit être nettoyer si non vide lors de la création<br>
+[!badge variant="info" text="-C"] ou [!badge variant="info" text="--cache"] pour forcer la création de l'environnement dans le dossier de cache<br>
+[!badge variant="info" text="-p"] ou [!badge variant="info" text="--prompt"] pour définir le prompt dans l'environnement<br>

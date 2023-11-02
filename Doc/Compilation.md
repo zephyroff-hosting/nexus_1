@@ -14,7 +14,7 @@ Avant la compilation, le système va contrôler la présence de toutes les dépe
 <br><br>
 #### Options
 
-**--install** pour installer ou mettre à jour les dépendances manquantes<br>
-**--nocheck** pour désactiver la vérification du contrôle de dépendances<br>
-**--dryrun** pour afficher les informations de compilation sans action<br>
-**-e** ou **--env** pour préciser l'environnement qui sera utilisé pour la compilation<br>
+[!badge variant="info" text="--install"] pour installer ou mettre à jour les dépendances manquantes<br>
+[!badge variant="info" text="--nocheck"] pour désactiver la vérification du contrôle de dépendances<br>
+[!badge variant="info" text="--dryrun"] pour afficher les informations de compilation sans action<br>
+[!badge variant="info" text="-e"] ou [!badge variant="info" text="--env"] pour préciser l'environnement qui sera utilisé pour la compilation<br>

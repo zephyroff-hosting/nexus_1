@@ -2,7 +2,7 @@
 icon: 
 order: 994
 ---
-Il est possible de lister les environnements virtuels d'un projet avec l'argument **--list**
+Il est possible de lister les environnements virtuels d'un projet avec l'argument [!badge variant="info" text="--list"]
 
 ```console
 nxs env --list
