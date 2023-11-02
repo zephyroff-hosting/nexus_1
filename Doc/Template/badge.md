@@ -1,0 +1,1 @@
+[!badge variant="info" text=""]
