@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Repository/index.md",
+                "file": "Compilation.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Repository/index.md",
+                "file": "Compilation.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Repository/index.md",
+                "file": "Compilation.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Repository/index.md"
+                "file": "Compilation.md"
               }
             }
           }
@@ -148,7 +148,9 @@
   },
   "active": "725b29325f85e731",
   "lastOpenFiles": [
+    "Architecture/Configuration.md",
     "Cache.md",
+    "Repository/index.md",
     "Sauvegarde.md",
     "Package Management/Information d'un package.md",
     "Package Management/Verrouillage de version.md",
@@ -162,11 +164,9 @@
     "Project Management/Vérification du projet.md",
     "Project Management/Suppression de package.md",
     "Project Management/Ajout de package.md",
-    "Repository/index.md",
     "Repository",
     "Architecture/nexus.toml.md",
     "Project Management/index.md",
-    "Architecture/Configuration.md",
     "Project Management/Création d'un projet.md",
     "Package Management/index.md",
     "Project Management/versioning.md",
