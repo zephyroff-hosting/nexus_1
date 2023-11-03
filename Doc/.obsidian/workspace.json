@@ -13,13 +13,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Project Management/Gestion des alias.md",
+                "file": "Package Management/Information d'un package.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "190dce13f6848996",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Cache.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -48,7 +61,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "--list",
+                "query": "nxs project",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -85,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Project Management/Gestion des alias.md",
+                "file": "Cache.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Project Management/Gestion des alias.md",
+                "file": "Cache.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Project Management/Gestion des alias.md"
+                "file": "Cache.md"
               }
             }
           }
@@ -146,21 +159,29 @@
       "command-palette:Ouvrir la palette de commandes": false
     }
   },
-  "active": "725b29325f85e731",
+  "active": "190dce13f6848996",
   "lastOpenFiles": [
-    "Project Management/Suppression de package.md",
-    "Project Management/Gestion des alias.md",
-    "Project Management/Ajout de package.md",
-    "Sans titre.md",
-    "Package Management/Installation de package.md",
+    "Sauvegarde.md",
+    "Cache.md",
     "Package Management/Information d'un package.md",
+    "Architecture/nexus.toml.md",
+    "Project Management/index.md",
+    "Package Management/Lister les packages installés.md",
+    "Package Management/Snapshot.md",
+    "Package Management/Mise à jour de package.md",
+    "Package Management/Installation de package.md",
+    "Package Management/Gestion des alias.md",
+    "Package Management/Chercher un package.md",
+    "Project Management/Vérification du projet.md",
+    "Architecture/Configuration.md",
+    "Project Management/Suppression de package.md",
+    "Package Management/Verrouillage de version.md",
+    "Project Management/Création d'un projet.md",
+    "Project Management/Ajout de package.md",
     "Package Management/index.md",
     "Project Management/versioning.md",
     "Project Management/Initialisation à partir de code existant.md",
-    "Project Management/Création d'un projet.md",
-    "Package Management/Mise à jour de package.md",
     "Package Management/Désinstallation de package.md",
-    "Package Management/Chercher un package.md",
     "Code analysis/index.yml",
     "Package Management/search.md",
     "Protected.md",
@@ -171,18 +192,10 @@
     "Template/index.yml",
     "Template/header.md",
     "Template/console.md",
-    "Template/badge.md",
     "Template",
-    "Sauvegarde.md",
-    "README.md",
-    "Provisioning.md",
-    "Private.md",
     "Package Management",
-    "Architecture/Configuration.md",
-    "Code analysis/index.md",
     "assets/logo.png",
     "assets",
-    "Compilation.md",
     "Project Management",
     "Architecture",
     "Environment Management"

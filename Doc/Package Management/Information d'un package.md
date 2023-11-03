@@ -18,6 +18,7 @@ Cette commande affichera:
 - Les vulnérabilités identifiées
 - Indique si le package est installé et sa localisation
 
+Dans ce cas où l'argument est un fichier de package, la commande retournera l'ensemble des métadonnées contenues dans le fichier. 
 <br>
 #### Options
 

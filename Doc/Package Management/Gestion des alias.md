@@ -10,7 +10,10 @@ Dans ce cas, Nexus propose un système d'alias qui permet de faire une correspon
 nxs alias
 ```
 
-Un fichier **.package_alias** sera alors créé à la racine du projet avec l'ensemble des alias
+Un fichier **.package_alias** sera alors créé à la racine du projet avec l'ensemble des alias.
+
+L'appel de la commande sans argument affichera les alias actuellement configurés.
+
 <br>
 #### Options
 
