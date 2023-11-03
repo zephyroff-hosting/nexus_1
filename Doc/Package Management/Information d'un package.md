@@ -1,5 +1,5 @@
 ---
-icon: 
+icon: info
 order: 998
 ---
 Il est possible d'afficher les informations d'un package

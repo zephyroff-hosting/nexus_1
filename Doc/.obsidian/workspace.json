@@ -18,21 +18,8 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "190dce13f6848996",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Cache.md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -98,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Cache.md",
+                "file": "Package Management/Information d'un package.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Cache.md",
+                "file": "Package Management/Information d'un package.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Cache.md"
+                "file": "Package Management/Information d'un package.md"
               }
             }
           }
@@ -159,29 +146,31 @@
       "command-palette:Ouvrir la palette de commandes": false
     }
   },
-  "active": "190dce13f6848996",
+  "active": "725b29325f85e731",
   "lastOpenFiles": [
-    "Sauvegarde.md",
     "Cache.md",
-    "Package Management/Information d'un package.md",
-    "Architecture/nexus.toml.md",
-    "Project Management/index.md",
-    "Package Management/Lister les packages installés.md",
+    "Sauvegarde.md",
+    "Package Management/Verrouillage de version.md",
     "Package Management/Snapshot.md",
-    "Package Management/Mise à jour de package.md",
-    "Package Management/Installation de package.md",
     "Package Management/Gestion des alias.md",
+    "Package Management/Mise à jour de package.md",
+    "Package Management/Désinstallation de package.md",
+    "Package Management/Installation de package.md",
+    "Package Management/Information d'un package.md",
+    "Package Management/Lister les packages installés.md",
     "Package Management/Chercher un package.md",
     "Project Management/Vérification du projet.md",
-    "Architecture/Configuration.md",
     "Project Management/Suppression de package.md",
-    "Package Management/Verrouillage de version.md",
-    "Project Management/Création d'un projet.md",
     "Project Management/Ajout de package.md",
+    "Repository/index.md",
+    "Repository",
+    "Architecture/nexus.toml.md",
+    "Project Management/index.md",
+    "Architecture/Configuration.md",
+    "Project Management/Création d'un projet.md",
     "Package Management/index.md",
     "Project Management/versioning.md",
     "Project Management/Initialisation à partir de code existant.md",
-    "Package Management/Désinstallation de package.md",
     "Code analysis/index.yml",
     "Package Management/search.md",
     "Protected.md",
@@ -191,13 +180,11 @@
     "assets/logo_short.png",
     "Template/index.yml",
     "Template/header.md",
-    "Template/console.md",
     "Template",
     "Package Management",
     "assets/logo.png",
     "assets",
     "Project Management",
-    "Architecture",
-    "Environment Management"
+    "Architecture"
   ]
 }

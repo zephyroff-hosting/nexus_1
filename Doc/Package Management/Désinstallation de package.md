@@ -1,5 +1,5 @@
 ---
-icon: 
+icon: device-desktop
 order: 996
 ---
 Nexus propose de désinstaller des packages.

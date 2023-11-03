@@ -1,5 +1,5 @@
 ---
-icon: 
+icon: sign-out
 order: 995
 ---
 Pour gérer les dépendances d'un projet, vous pouvez utiliser la commande [!badge variant="info" text="remove"] pour supprimer des dépendances au projet.

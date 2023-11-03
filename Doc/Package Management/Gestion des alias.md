@@ -1,5 +1,5 @@
 ---
-icon: 
+icon: arrow-switch
 order: 994
 ---
 Il est possible que certains packages ont un nom différent entre le nom publié et le nom des module à installer. 

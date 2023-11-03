@@ -1,5 +1,5 @@
 ---
-icon: 
+icon: sync
 order: 995
 ---
 La solution propose de mettre à jour l'ensemble ou une partie des packages d'un environnement.

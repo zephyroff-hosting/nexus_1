@@ -1,5 +1,5 @@
 ---
-icon: 
+icon: desktop-download
 order: 997
 ---
 Nexus propose d'installer des packages tout en contrôlant la compatibilité avec les packages déjà installés.

@@ -1,5 +1,5 @@
 ---
-icon: 
+icon: list-unordered
 order: 999
 ---
 La solution propose une commande pour lister l'ensemble des packages installés sur un environnement.

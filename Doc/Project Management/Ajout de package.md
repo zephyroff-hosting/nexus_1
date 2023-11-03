@@ -1,5 +1,5 @@
 ---
-icon: 
+icon: sign-in
 order: 996
 ---
 Pour gérer les dépendances d'un projet, vous pouvez utiliser la commande [!badge variant="info" text="add"] pour ajouter des dépendances au projet.
