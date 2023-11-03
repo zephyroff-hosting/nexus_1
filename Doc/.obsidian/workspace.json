@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Package Management/Information d'un package.md",
+                "file": "Repository/index.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Package Management/Information d'un package.md",
+                "file": "Repository/index.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Package Management/Information d'un package.md",
+                "file": "Repository/index.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Package Management/Information d'un package.md"
+                "file": "Repository/index.md"
               }
             }
           }
@@ -150,13 +150,13 @@
   "lastOpenFiles": [
     "Cache.md",
     "Sauvegarde.md",
+    "Package Management/Information d'un package.md",
     "Package Management/Verrouillage de version.md",
     "Package Management/Snapshot.md",
     "Package Management/Gestion des alias.md",
     "Package Management/Mise à jour de package.md",
     "Package Management/Désinstallation de package.md",
     "Package Management/Installation de package.md",
-    "Package Management/Information d'un package.md",
     "Package Management/Lister les packages installés.md",
     "Package Management/Chercher un package.md",
     "Project Management/Vérification du projet.md",

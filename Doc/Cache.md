@@ -1,6 +1,6 @@
 ---
 icon: cache
-order: 988
+order: 987
 ---
 Pour gagner en réactivité et en temps de traitement, Nexus propose un système de cache pour sauvegarder les informations sur les packages. Ces informations pourront alors être réutilisées par les autres commandes sans avoir besoin de réinterroger les repos.
 

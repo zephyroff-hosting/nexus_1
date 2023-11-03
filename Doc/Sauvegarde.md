@@ -1,6 +1,6 @@
 ---
 icon: archive
-order: 989
+order: 988
 ---
 Pour faciliter l'archivage ou la sauvegarde de nos projets, Nexus propose une solution de sauvegarde qui va archiver et compresser dans un zip l'ensemble de notre projet.
 
