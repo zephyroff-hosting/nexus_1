@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Package Management/add.md",
+                "file": "Project Management/Gestion des alias.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Package Management/add.md",
+                "file": "Project Management/Gestion des alias.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Package Management/add.md",
+                "file": "Project Management/Gestion des alias.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Package Management/add.md"
+                "file": "Project Management/Gestion des alias.md"
               }
             }
           }
@@ -148,9 +148,21 @@
   },
   "active": "725b29325f85e731",
   "lastOpenFiles": [
+    "Project Management/Suppression de package.md",
+    "Project Management/Gestion des alias.md",
+    "Project Management/Ajout de package.md",
+    "Sans titre.md",
+    "Package Management/Installation de package.md",
+    "Package Management/Information d'un package.md",
+    "Package Management/index.md",
+    "Project Management/versioning.md",
+    "Project Management/Initialisation à partir de code existant.md",
+    "Project Management/Création d'un projet.md",
+    "Package Management/Mise à jour de package.md",
+    "Package Management/Désinstallation de package.md",
+    "Package Management/Chercher un package.md",
     "Code analysis/index.yml",
     "Package Management/search.md",
-    "Package Management/add.md",
     "Protected.md",
     "assets/ps18CB.tmp",
     "assets/psAAC7.tmp",
@@ -165,26 +177,14 @@
     "README.md",
     "Provisioning.md",
     "Private.md",
-    "Package Management/index.md",
     "Package Management",
     "Architecture/Configuration.md",
     "Code analysis/index.md",
     "assets/logo.png",
     "assets",
     "Compilation.md",
-    "Publication.md",
-    "Packaging.md",
-    "Environment Management/index.md",
-    "Project Management/index.md",
-    "Architecture/index.md",
-    "Environment Management/Travail dans un environnement.md",
-    "Environment Management/Supprimer un environnement.md",
-    "Environment Management/Sandbox.md",
-    "Environment Management/Migration d'environnement.md",
-    "Environment Management/Lister les environnements.md",
     "Project Management",
     "Architecture",
-    "Environment Management",
-    "Packaging"
+    "Environment Management"
   ]
 }
