@@ -148,10 +148,14 @@
   },
   "active": "725b29325f85e731",
   "lastOpenFiles": [
+    "assets/icons/env2.svg",
+    "assets/icons/env.svg",
+    "assets/icons/OLD/env2.svg",
+    "assets/icons/OLD/env-default2.svg",
+    "assets/icons/OLD",
+    "assets/icons/Nouveau dossier",
     "assets/icons/env-default.svg",
     "assets/icons/env-default2.svg",
-    "assets/icons/env.svg",
-    "assets/icons/env2.svg",
     "assets/icons/sandbox.svg",
     "assets/icons/sandbox2.svg",
     "Environment Management/index.md",
@@ -189,8 +193,6 @@
     "Template",
     "Package Management",
     "assets/logo.png",
-    "assets",
-    "Project Management",
-    "Architecture"
+    "assets"
   ]
 }
