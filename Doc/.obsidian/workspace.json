@@ -148,6 +148,8 @@
   },
   "active": "725b29325f85e731",
   "lastOpenFiles": [
+    "assets/icons/sandbox.svg",
+    "assets/icons/sandbox2.svg",
     "Environment Management/index.md",
     "assets/icons/env-work.svg",
     "Environment Management/Travail dans un environnement.md",
@@ -174,7 +176,6 @@
     "Package Management/Lister les packages installés.md",
     "Package Management/Chercher un package.md",
     "Project Management/Vérification du projet.md",
-    "Project Management/Suppression de package.md",
     "Repository",
     "Code analysis/index.yml",
     "assets/ps18CB.tmp",
