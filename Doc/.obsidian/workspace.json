@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Environment Management/Ajouter un environnement existant.md",
+                "file": "Environment Management/Travail dans un environnement.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Environment Management/Ajouter un environnement existant.md",
+                "file": "Environment Management/Travail dans un environnement.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Environment Management/Ajouter un environnement existant.md",
+                "file": "Environment Management/Travail dans un environnement.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Environment Management/Ajouter un environnement existant.md"
+                "file": "Environment Management/Travail dans un environnement.md"
               }
             }
           }
@@ -148,6 +148,17 @@
   },
   "active": "725b29325f85e731",
   "lastOpenFiles": [
+    "Environment Management/index.md",
+    "assets/icons/env-work.svg",
+    "Environment Management/Travail dans un environnement.md",
+    "Environment Management/Supprimer un environnement.md",
+    "Environment Management/Sandbox.md",
+    "Environment Management/Migration d'environnement.md",
+    "Environment Management/Lister les environnements.md",
+    "Environment Management/Environnement par défaut.md",
+    "Environment Management/Création d'un environnement.md",
+    "Environment Management/Cloner un environnement.md",
+    "Environment Management/Ajouter un environnement existant.md",
     "Compilation.md",
     "Architecture/Configuration.md",
     "Cache.md",
@@ -164,20 +175,10 @@
     "Package Management/Chercher un package.md",
     "Project Management/Vérification du projet.md",
     "Project Management/Suppression de package.md",
-    "Project Management/Ajout de package.md",
     "Repository",
-    "Architecture/nexus.toml.md",
-    "Project Management/index.md",
-    "Project Management/Création d'un projet.md",
-    "Package Management/index.md",
-    "Project Management/versioning.md",
-    "Project Management/Initialisation à partir de code existant.md",
     "Code analysis/index.yml",
-    "Package Management/search.md",
-    "Protected.md",
     "assets/ps18CB.tmp",
     "assets/psAAC7.tmp",
-    "index.md",
     "assets/logo_short.png",
     "Template/index.yml",
     "Template",

@@ -1,5 +1,5 @@
 ---
-icon: 
+icon: /assets/icons/env-mig.svg
 order: 995
 ---
 Il est possible de migrer un environnement virtuel du cache vers le projet ou inversement

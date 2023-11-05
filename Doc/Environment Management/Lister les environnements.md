@@ -1,5 +1,5 @@
 ---
-icon: 
+icon: /assets/icons/env-list.svg
 order: 994
 ---
 Il est possible de lister les environnements virtuels d'un projet avec l'argument [!badge variant="info" text="--list"]

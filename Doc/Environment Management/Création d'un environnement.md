@@ -1,5 +1,5 @@
 ---
-icon: 
+icon: /assets/icons/env-create.svg
 order: 998
 ---
 Pour la création d'un environnement virtuel, nous utilisons l'argument **env --create**

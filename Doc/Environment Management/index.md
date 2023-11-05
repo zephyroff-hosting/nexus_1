@@ -1,5 +1,5 @@
 ---
-icon: 
+icon: /assets/icons/env.svg
 order: 996
 ---
 Nexus propose un système d'environnement virtuel. 
