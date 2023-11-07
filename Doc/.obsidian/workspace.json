@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Repository/Commit des changements.md",
+                "file": "Repository/Arborescence du repo.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Repository/Commit des changements.md",
+                "file": "Repository/Arborescence du repo.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Repository/Commit des changements.md",
+                "file": "Repository/Arborescence du repo.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Repository/Commit des changements.md"
+                "file": "Repository/Arborescence du repo.md"
               }
             }
           }
@@ -148,10 +148,11 @@
   },
   "active": "155eb27a05f569d2",
   "lastOpenFiles": [
+    "Repository/Commit des changements.md",
+    "Repository/Arborescence du repo.md",
     "Repository/Restauration d'un fichier.md",
     "Repository/Réinitialisation de commit.md",
     "Repository/Renommer une branche.md",
-    "Repository/Commit des changements.md",
     "Repository/Merge des branches.md",
     "Repository/Changer de branche.md",
     "Repository/Supprimer une branche.md",
@@ -184,7 +185,6 @@
     "Environment Management/Cloner un environnement.md",
     "Environment Management/Ajouter un environnement existant.md",
     "Compilation.md",
-    "Architecture/Configuration.md",
     "Repository",
     "Code analysis/index.yml",
     "assets/ps18CB.tmp",

@@ -2,7 +2,7 @@
 icon: 
 order: 988
 ---
-Sans restaurer entièrement une branche, Nexus propose une commande pour restaurer un fichier d'un ancien commit.
+Sans restaurer entièrement une branche, Nexus propose une commande pour restaurer un fichier ou un répertoire d'un ancien commit.
 
 ```console
 nxs restore {FILE}
