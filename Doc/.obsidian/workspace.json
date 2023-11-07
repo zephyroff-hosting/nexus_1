@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "e638a6775fcc17f0",
+        "id": "1b47da268999f4c4",
         "type": "tabs",
         "children": [
           {
-            "id": "725b29325f85e731",
+            "id": "155eb27a05f569d2",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Environment Management/Travail dans un environnement.md",
+                "file": "Repository/Commit des changements.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Environment Management/Travail dans un environnement.md",
+                "file": "Repository/Commit des changements.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Environment Management/Travail dans un environnement.md",
+                "file": "Repository/Commit des changements.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Environment Management/Travail dans un environnement.md"
+                "file": "Repository/Commit des changements.md"
               }
             }
           }
@@ -138,16 +138,31 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "switcher:Open quick switcher": false,
-      "graph:Open graph view": false,
-      "canvas:Create new canvas": false,
-      "daily-notes:Open today's daily note": false,
-      "templates:Insert template": false,
-      "command-palette:Open command palette": false
+      "switcher:Ouvrir le sélecteur rapide": false,
+      "graph:Ouvrir la vue graphique": false,
+      "canvas:Créer une nouvelle toile": false,
+      "daily-notes:Ouvrir la note quotidienne": false,
+      "templates:Insérer le modèle": false,
+      "command-palette:Ouvrir la palette de commandes": false
     }
   },
-  "active": "725b29325f85e731",
+  "active": "155eb27a05f569d2",
   "lastOpenFiles": [
+    "Repository/Restauration d'un fichier.md",
+    "Repository/Réinitialisation de commit.md",
+    "Repository/Renommer une branche.md",
+    "Repository/Commit des changements.md",
+    "Repository/Merge des branches.md",
+    "Repository/Changer de branche.md",
+    "Repository/Supprimer une branche.md",
+    "Repository/Suppression du repo.md",
+    "Repository/Ajouter une branche.md",
+    "Repository/index.md",
+    "Repository/Statut du repo.md",
+    "Repository/Log du repo.md",
+    "Repository/Lister les branches.md",
+    "Repository/Initialisation du repo.md",
+    "Environment Management/Travail dans un environnement.md",
     "assets/icons/env2.svg",
     "assets/icons/env.svg",
     "assets/icons/OLD/env2.svg",
@@ -160,7 +175,6 @@
     "assets/icons/sandbox2.svg",
     "Environment Management/index.md",
     "assets/icons/env-work.svg",
-    "Environment Management/Travail dans un environnement.md",
     "Environment Management/Supprimer un environnement.md",
     "Environment Management/Sandbox.md",
     "Environment Management/Migration d'environnement.md",
@@ -171,19 +185,6 @@
     "Environment Management/Ajouter un environnement existant.md",
     "Compilation.md",
     "Architecture/Configuration.md",
-    "Cache.md",
-    "Repository/index.md",
-    "Sauvegarde.md",
-    "Package Management/Information d'un package.md",
-    "Package Management/Verrouillage de version.md",
-    "Package Management/Snapshot.md",
-    "Package Management/Gestion des alias.md",
-    "Package Management/Mise à jour de package.md",
-    "Package Management/Désinstallation de package.md",
-    "Package Management/Installation de package.md",
-    "Package Management/Lister les packages installés.md",
-    "Package Management/Chercher un package.md",
-    "Project Management/Vérification du projet.md",
     "Repository",
     "Code analysis/index.yml",
     "assets/ps18CB.tmp",
@@ -192,7 +193,6 @@
     "Template/index.yml",
     "Template",
     "Package Management",
-    "assets/logo.png",
     "assets"
   ]
 }
