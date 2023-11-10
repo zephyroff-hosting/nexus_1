@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "1b47da268999f4c4",
+        "id": "e2bf6e6b732cc8d1",
         "type": "tabs",
         "children": [
           {
-            "id": "155eb27a05f569d2",
+            "id": "5421e3fe55981e22",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Repository/Arborescence du repo.md",
+                "file": "Environment Management/index.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Repository/Arborescence du repo.md",
+                "file": "Environment Management/index.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Repository/Arborescence du repo.md",
+                "file": "Environment Management/index.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Repository/Arborescence du repo.md"
+                "file": "Environment Management/index.md"
               }
             }
           }
@@ -146,10 +146,12 @@
       "command-palette:Ouvrir la palette de commandes": false
     }
   },
-  "active": "155eb27a05f569d2",
+  "active": "5421e3fe55981e22",
   "lastOpenFiles": [
-    "Repository/Commit des changements.md",
+    "assets/icons/env.svg",
+    "assets/icons/3917618.svg",
     "Repository/Arborescence du repo.md",
+    "Repository/Commit des changements.md",
     "Repository/Restauration d'un fichier.md",
     "Repository/Réinitialisation de commit.md",
     "Repository/Renommer une branche.md",
@@ -165,7 +167,6 @@
     "Repository/Initialisation du repo.md",
     "Environment Management/Travail dans un environnement.md",
     "assets/icons/env2.svg",
-    "assets/icons/env.svg",
     "assets/icons/OLD/env2.svg",
     "assets/icons/OLD/env-default2.svg",
     "assets/icons/OLD",
@@ -184,7 +185,6 @@
     "Environment Management/Création d'un environnement.md",
     "Environment Management/Cloner un environnement.md",
     "Environment Management/Ajouter un environnement existant.md",
-    "Compilation.md",
     "Repository",
     "Code analysis/index.yml",
     "assets/ps18CB.tmp",
