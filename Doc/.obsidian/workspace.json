@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Repository/Arborescence du repo.md",
+                "file": "Environment Management/Création d'un environnement.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Repository/Arborescence du repo.md",
+                "file": "Environment Management/Création d'un environnement.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Repository/Arborescence du repo.md",
+                "file": "Environment Management/Création d'un environnement.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Repository/Arborescence du repo.md"
+                "file": "Environment Management/Création d'un environnement.md"
               }
             }
           }
@@ -148,6 +148,7 @@
   },
   "active": "5421e3fe55981e22",
   "lastOpenFiles": [
+    "Repository/Arborescence du repo.md",
     "Repository/Suppression du repo.md",
     "Repository/Initialisation du repo.md",
     "Repository/Réinitialisation de commit.md",
@@ -169,7 +170,6 @@
     "Repository/index.md",
     "Repository/Commit des changements.md",
     "Repository/Changer de branche.md",
-    "Repository/Arborescence du repo.md",
     "Repository/Ajouter une branche.md",
     "Project Management/versioning.md",
     "Project Management/Vérification du projet.md",
