@@ -1,5 +1,5 @@
 ---
-icon: home
+icon: /assets/icons/introduction.svg
 order: 999
 label: Introduction
 ---
