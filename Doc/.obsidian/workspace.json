@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Environment Management/index.md",
+                "file": "Architecture/index.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Environment Management/index.md",
+                "file": "Architecture/index.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Environment Management/index.md",
+                "file": "Architecture/index.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Environment Management/index.md"
+                "file": "Architecture/index.md"
               }
             }
           }
@@ -148,6 +148,10 @@
   },
   "active": "5421e3fe55981e22",
   "lastOpenFiles": [
+    "Environment Management/Ajouter un environnement existant.md",
+    "Architecture/nexus.toml.md",
+    "Architecture/index.md",
+    "Environment Management/index.md",
     "assets/icons/env.svg",
     "assets/icons/3917618.svg",
     "Repository/Arborescence du repo.md",
@@ -175,7 +179,6 @@
     "assets/icons/env-default2.svg",
     "assets/icons/sandbox.svg",
     "assets/icons/sandbox2.svg",
-    "Environment Management/index.md",
     "assets/icons/env-work.svg",
     "Environment Management/Supprimer un environnement.md",
     "Environment Management/Sandbox.md",
@@ -183,13 +186,10 @@
     "Environment Management/Lister les environnements.md",
     "Environment Management/Environnement par défaut.md",
     "Environment Management/Création d'un environnement.md",
-    "Environment Management/Cloner un environnement.md",
-    "Environment Management/Ajouter un environnement existant.md",
     "Repository",
     "Code analysis/index.yml",
     "assets/ps18CB.tmp",
     "assets/psAAC7.tmp",
-    "assets/logo_short.png",
     "Template/index.yml",
     "Template",
     "Package Management",
