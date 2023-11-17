@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://nexus.apajak.fr/sitemap.xml.gz
