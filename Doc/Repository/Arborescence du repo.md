@@ -1,5 +1,5 @@
 ---
-icon: /assets/icons/repo-arbo
+icon: /assets/icons/repo-arbo.svg
 order: 986
 ---
 Il est possible d'afficher l'arborescence du commit actuel avec la commande [!badge variant="info" text="tree"]
