@@ -1,5 +1,5 @@
 ---
-icon: 
+icon: /assets/icons/repo-status.svg
 order: 997
 ---
 A tout moment, il est possible d'afficher le statut du repo avec la commande [!badge variant="info" text="repo --status"]

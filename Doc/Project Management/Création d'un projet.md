@@ -1,5 +1,5 @@
 ---
-icon: repo-template
+icon: /assets/icons/new.svg
 order: 999
 ---
 

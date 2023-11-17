@@ -1,5 +1,5 @@
 ---
-icon: 
+icon: /assets/icons/repo-log.svg
 order: 996
 ---
 Il est possible d'afficher les logs pour repo pour connaître par exemple les derniers commit avec la commande [!badge variant="info" text="repo --log"]

@@ -1,5 +1,5 @@
 ---
-icon: file-binary
+icon: /assets/icons/securiscan.svg
 order: 998
 ---
 La commande securiscan est une intégration de l'outil Bandit qui permet de détecter les problèmes de sécurité courants. Cette option ne remplace pas un réel outil d'analyse de la sécurité de votre code mais propose une premier niveau d'analyse durant votre développement.

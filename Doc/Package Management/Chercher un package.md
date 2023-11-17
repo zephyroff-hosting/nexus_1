@@ -1,5 +1,5 @@
 ---
-icon: search
+icon: /assets/icons/search-package.svg
 order: 999
 ---
 Nexus propose une option pour rechercher un package qui pourra être installé par la suite

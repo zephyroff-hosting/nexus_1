@@ -1,5 +1,5 @@
 ---
-icon: desktop-download
+icon: /assets/icons/install-package.svg
 order: 997
 ---
 Nexus propose d'installer des packages tout en contrôlant la compatibilité avec les packages déjà installés.

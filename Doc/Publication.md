@@ -1,5 +1,5 @@
 ---
-icon: upload
+icon: /assets/icons/publication.svg
 order: 993
 ---
 Nexus propose une solution pour publier ces packages sur le repo de notre choix (par défaut pypi.org)

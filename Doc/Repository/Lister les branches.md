@@ -1,5 +1,5 @@
 ---
-icon: 
+icon: /assets/icons/repo-list.svg
 order: 995
 ---
 Il est possible de lister les branches du repo en appelant simplement la commande [!badge variant="info" text="branch"]

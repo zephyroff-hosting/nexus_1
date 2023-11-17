@@ -1,5 +1,5 @@
 ---
-icon: 
+icon: /assets/icons/repo-switch.svg
 order: 992
 ---
 Pour changer de branche rapidement, il suffit d'utiliser la commande [!badge variant="info" text="branch --switch"]

@@ -1,5 +1,5 @@
 ---
-icon: 
+icon: /assets/icons/repo-merge.svg
 order: 990
 ---
 Sur des projets disposant de plusieurs branches, il est possible de merge plusieurs branches pour assembler les modifications. Pour cela, on peut utiliser la commande [!badge variant="info" text="branch --merge"]

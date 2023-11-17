@@ -1,5 +1,5 @@
 ---
-icon: verified
+icon: /assets/icons/verif.svg
 order: 994
 ---
 Nexus propose une solution de vérification du projet. Grâce à cela, plusieurs éléments seront vérifiés:

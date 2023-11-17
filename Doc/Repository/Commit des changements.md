@@ -1,5 +1,5 @@
 ---
-icon: 
+icon: /assets/icons/repo-commit.svg
 order: 987
 ---
 Pour sauvegarder ces changements sur un repo, nous pouvons utiliser la commande [!badge variant="info" text="commit"].

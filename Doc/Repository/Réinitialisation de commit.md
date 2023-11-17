@@ -1,5 +1,5 @@
 ---
-icon: 
+icon: /assets/icons/repo-reinit.svg
 order: 989
 ---
 La commande [!badge variant="info" text="reset"] nous permet de revenir à un commit précédent tout en annulant les modifications actuelles.

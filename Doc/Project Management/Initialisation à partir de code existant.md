@@ -1,5 +1,5 @@
 ---
-icon: repo-push
+icon: /assets/icons/init.svg
 order: 998
 ---
 Dans le cas où vous avez déjà des projets existants, il est possible de le "convertir" en projet Nexus pour être géré par la suite par cette solution.

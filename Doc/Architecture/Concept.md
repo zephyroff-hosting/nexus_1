@@ -1,5 +1,5 @@
 ---
-icon: book
+icon: /assets/icons/concept.svg
 order: 999
 ---
 Un projet Nexus contient plusieurs éléments:

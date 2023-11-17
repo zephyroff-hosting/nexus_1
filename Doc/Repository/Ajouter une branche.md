@@ -1,5 +1,5 @@
 ---
-icon: 
+icon: /assets/icons/repo-addbranche.svg
 order: 994
 ---
 En fonction de la configuration Nexus, les branches seront automatiquement créées en même temps que les changements de version, mais il est possible de rajouter des branches à volonté avec la commande [!badge variant="info" text="branch --add"]

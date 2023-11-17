@@ -1,5 +1,5 @@
 ---
-icon: 
+icon: /assets/icons/repo-rename.svg
 order: 991
 ---
 Il est possible de renommer une branche existante avec la commande [!badge variant="info" text="branch --rename"]

@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Architecture/index.md",
+                "file": "Repository/Suppression du repo.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Architecture/index.md",
+                "file": "Repository/Suppression du repo.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Architecture/index.md",
+                "file": "Repository/Suppression du repo.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Architecture/index.md"
+                "file": "Repository/Suppression du repo.md"
               }
             }
           }
@@ -148,44 +148,44 @@
   },
   "active": "5421e3fe55981e22",
   "lastOpenFiles": [
-    "Environment Management/Ajouter un environnement existant.md",
-    "Architecture/nexus.toml.md",
-    "Architecture/index.md",
-    "Environment Management/index.md",
-    "assets/icons/env.svg",
-    "assets/icons/3917618.svg",
-    "Repository/Arborescence du repo.md",
-    "Repository/Commit des changements.md",
-    "Repository/Restauration d'un fichier.md",
+    "Repository/Initialisation du repo.md",
     "Repository/Réinitialisation de commit.md",
-    "Repository/Renommer une branche.md",
-    "Repository/Merge des branches.md",
-    "Repository/Changer de branche.md",
+    "Sauvegarde.md",
+    "assets/icons/repo_init.svg",
+    "assets/icons/repo_remove.svg",
+    "Publication.md",
+    "Provisioning.md",
+    "Packaging.md",
+    "Compilation.md",
+    "Cache.md",
     "Repository/Supprimer une branche.md",
     "Repository/Suppression du repo.md",
-    "Repository/Ajouter une branche.md",
-    "Repository/index.md",
     "Repository/Statut du repo.md",
-    "Repository/Log du repo.md",
+    "Repository/Restauration d'un fichier.md",
+    "Repository/Renommer une branche.md",
+    "Repository/Merge des branches.md",
     "Repository/Lister les branches.md",
-    "Repository/Initialisation du repo.md",
-    "Environment Management/Travail dans un environnement.md",
-    "assets/icons/env2.svg",
-    "assets/icons/OLD/env2.svg",
-    "assets/icons/OLD/env-default2.svg",
+    "Repository/Log du repo.md",
+    "Repository/index.md",
+    "Repository/Commit des changements.md",
+    "Repository/Changer de branche.md",
+    "Repository/Arborescence du repo.md",
+    "Repository/Ajouter une branche.md",
+    "Project Management/versioning.md",
+    "Project Management/Vérification du projet.md",
+    "Project Management/Suppression de package.md",
+    "Project Management/Ajout de package.md",
+    "Project Management/Initialisation à partir de code existant.md",
+    "assets/icons/version.svg",
+    "assets/icons/verif.svg",
+    "assets/icons/update-package.svg",
+    "assets/icons/snap-package.svg",
+    "assets/icons/securiscan.svg",
+    "assets/icons/search-package.svg",
+    "assets/icons/Save.svg",
+    "assets/icons/sandbox.svg",
     "assets/icons/OLD",
     "assets/icons/Nouveau dossier",
-    "assets/icons/env-default.svg",
-    "assets/icons/env-default2.svg",
-    "assets/icons/sandbox.svg",
-    "assets/icons/sandbox2.svg",
-    "assets/icons/env-work.svg",
-    "Environment Management/Supprimer un environnement.md",
-    "Environment Management/Sandbox.md",
-    "Environment Management/Migration d'environnement.md",
-    "Environment Management/Lister les environnements.md",
-    "Environment Management/Environnement par défaut.md",
-    "Environment Management/Création d'un environnement.md",
     "Repository",
     "Code analysis/index.yml",
     "assets/ps18CB.tmp",

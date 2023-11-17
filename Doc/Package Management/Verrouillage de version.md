@@ -1,5 +1,5 @@
 ---
-icon: shield-lock
+icon: /assets/icons/lock-package.svg
 order: 993
 ---
 Pour garantir de toujours utiliser les bonnes versions de dépendances entre environnement, il est possible de verrouiller les versions sur un projet en générant un fichier de lock **nexus.lock**

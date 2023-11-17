@@ -1,5 +1,5 @@
 ---
-icon: gear
+icon: /assets/icons/configuration.svg
 order: 997
 ---
 La configuration Nexus est un ensemble de paramètres qui sont applicables à l'ensemble des projets et qui permettent de contrôler certains comportements comme les environnements virtuels, les repos ou encore l'affichage de logs.

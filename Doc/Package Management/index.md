@@ -1,5 +1,5 @@
 ---
-icon: container
+icon: /assets/icons/package_management.svg
 order: 995
 ---
 La partie gestion des packages est l'élément le plus important dans la création du projet. 

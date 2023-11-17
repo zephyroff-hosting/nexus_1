@@ -1,5 +1,5 @@
 ---
-icon: 
+icon: /assets/icons/repo-restore.svg
 order: 988
 ---
 Sans restaurer entièrement une branche, Nexus propose une commande pour restaurer un fichier ou un répertoire d'un ancien commit.

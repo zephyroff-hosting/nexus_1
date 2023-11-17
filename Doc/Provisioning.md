@@ -1,5 +1,5 @@
 ---
-icon: fold-up
+icon: /assets/icons/provision.svg
 order: 992
 ---
 Dans la majorité des repo Python, il est d'usage d'associer un nom de package au profil de son propriétaire. C'est-à-dire que seul celui-ci pourra ajouter ou mettre à jour un package portant ce nom, même si ce même package est supprimé de son profil par l'utilisateur.

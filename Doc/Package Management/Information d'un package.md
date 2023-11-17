@@ -1,5 +1,5 @@
 ---
-icon: info
+icon: /assets/icons/info-package.svg
 order: 998
 ---
 Il est possible d'afficher les informations d'un package
